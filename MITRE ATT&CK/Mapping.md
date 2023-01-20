@@ -11,6 +11,7 @@ This section only includes references to queries that can be mapped in the MITRE
 | T1566.001 | Phishing: Spearphishing Attachment |[Executable Email Attachment Recieved](../Office%20365/Email%20-%20ExecutableFileRecieved.md)|
 | T1566.001 | Phishing: Spearphishing Attachment | [Macro Attachment Opened From Rare Sender](../Office%20365/Email%20-%20MacroAttachmentOpenedFromRareSender.md)|
 | T1566.001 | Phishing: Spearphishing Attachment | [ASR Executable Content Triggered](../Office%20365/Email%20-%20ASRExecutableContentTriggered.md) |
+| T1566.001 | Phishing: Spearphishing Attachment | [Hunt: AsyncRAT OneNote Delivery](../Threat%20Hunting/Behavior%20-%20AsyncRATInitialAccess.md) |
 | T1566.002 | Phishing: Spearphishing Link | [Email Safe Links Trigger](../Office%20365/Email%20-%20SafeLinksTrigger.md) |
 
 ## Execution
