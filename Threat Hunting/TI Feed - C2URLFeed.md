@@ -1,4 +1,4 @@
-# Command & Control intel Feeds (IP Based)
+# Command & Control intel Feeds (Domain Based)
 
 #### Source: https://github.com/drb-ra
 #### Feed information: https://github.com/drb-ra/C2IntelFeeds
